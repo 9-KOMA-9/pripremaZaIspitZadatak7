@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\bin\Debug\pripremaZaIspitZadatak7.exe.config
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\bin\Debug\pripremaZaIspitZadatak7.exe
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\bin\Debug\pripremaZaIspitZadatak7.pdb
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\obj\Debug\pripremaZaIspitZadatak7.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\obj\Debug\pripremaZaIspitZadatak7.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\obj\Debug\pripremaZaIspitZadatak7.exe
+C:\Users\PC\source\repos\pripremaZaIspitZadatak7\pripremaZaIspitZadatak7\obj\Debug\pripremaZaIspitZadatak7.pdb
